@@ -1,0 +1,93 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Future of Fintech",
+      "category": [
+        "FINANCE",
+        "TECH"
+      ],
+      "description": "Exploring how AI and blockchain are reshaping financial services",
+      "date": "2026-01-11T09:12:45.120Z",
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "content": "The financial technology sector is experiencing unprecedented transformation. Artificial intelligence and blockchain technologies are revolutionizing how we interact with financial services. From automated trading algorithms to decentralized finance platforms, the landscape is evolving rapidly. This article explores the key trends shaping the future of fintech and what it means for consumers and businesses alike.",
+      "tags": [
+        "AI",
+        "Blockchain",
+        "Finance",
+        "Technology"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with React Query",
+      "category": [
+        "TECH",
+        "DEVELOPMENT"
+      ],
+      "description": "Learn how to efficiently manage server state in React applications",
+      "date": "2026-01-10T14:30:00.000Z",
+      "coverImage": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg",
+      "content": "TanStack Query, formerly known as React Query, is a powerful library for managing server state in React applications. It provides excellent features like automatic caching, background updates, and optimistic updates. In this comprehensive guide, we'll explore how to set up TanStack Query, create custom hooks, and handle common scenarios like pagination and infinite scrolling.",
+      "tags": [
+        "React",
+        "TanStack Query",
+        "Frontend",
+        "Tutorial"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Modern Web Development Practices",
+      "category": [
+        "DEVELOPMENT",
+        "TECH"
+      ],
+      "description": "Best practices for building scalable and maintainable web applications",
+      "date": "2026-01-09T11:20:15.000Z",
+      "coverImage": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
+      "content": "Modern web development requires a solid understanding of various tools and practices. From component-based architecture to state management, from testing strategies to deployment pipelines, there's a lot to consider. This article covers the essential practices that every web developer should know to build robust, scalable applications that stand the test of time.",
+      "tags": [
+        "Web Development",
+        "Best Practices",
+        "Architecture"
+      ]
+    },
+    {
+      "title": "Future of Fintech",
+      "category": [
+        "FINANCE",
+        "TECH"
+      ],
+      "description": "Exploring how artificial intelligence and blockchain are transforming the future of financial services.",
+      "content": "The financial industry is undergoing a massive transformation driven by rapid advancements in technology. Artificial intelligence and blockchain are no longer experimental concepts — they are becoming core pillars of modern financial systems.\n\nAI is improving customer experience through chatbots, fraud detection, and personalized financial advice. Machine learning models can analyze millions of transactions in seconds to detect unusual behavior, helping banks prevent fraud before it happens. This not only saves money but also builds trust between financial institutions and their customers.\n\nBlockchain, on the other hand, is reshaping how transactions are recorded and verified. By using decentralized ledgers, financial systems can reduce dependency on intermediaries, making transactions faster, cheaper, and more transparent. Cryptocurrencies and smart contracts are just the beginning of what this technology can offer.\n\nAs fintech continues to evolve, collaboration between traditional banks and technology startups will be key. The future of finance lies in innovation, accessibility, and security for everyone.",
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "date": "2026-01-17T21:42:03.683Z",
+      "tags": [
+        "AI",
+        "Blockchain",
+        "Digital Banking",
+        "Innovation"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Getting Started with React and Modern UI Design",
+      "category": [
+        "WEB",
+        "DEVELOPMENT"
+      ],
+      "description": "A beginner-friendly guide to building clean and responsive user interfaces using React and modern UI libraries.",
+      "content": "React has become one of the most popular libraries for building interactive user interfaces on the web. Its component-based architecture allows developers to break down complex applications into small, reusable pieces that are easier to manage and maintain.\n\nModern UI libraries such as Tailwind CSS and shadcn/ui help developers design beautiful interfaces without spending hours writing custom CSS. Tailwind provides utility classes that let you style components directly in your JSX, while shadcn/ui offers pre-built, accessible components that can be easily customized.\n\nWhen starting a new React project, it’s important to focus on clean structure and reusable components. Keeping your code organized makes your application more scalable as it grows. State management tools like TanStack Query also simplify server data handling, ensuring your app stays fast and reliable.\n\nWith the right tools and practices, you can build professional-looking web applications that are both functional and visually appealing.",
+      "coverImage": "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg",
+      "date": "2026-01-17T21:43:26.461Z",
+      "tags": [
+        "React",
+        "UI Design",
+        "Tailwind",
+        "Frontend"
+      ],
+      "id": 5
+    }
+  ]
+}
