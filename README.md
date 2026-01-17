@@ -4,7 +4,7 @@ A modern blog application built with React, TanStack Query, Tailwind CSS, and sh
 
 ## Overview
 
-![Blog Application Screenshot](./screenshot.png)
+![Blog Application Screenshot](./demo.gif)
 
 *CA Monk Blog - A modern blog application with a clean, two-column layout featuring blog list and detail views.*
 

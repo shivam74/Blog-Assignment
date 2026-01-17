@@ -88,6 +88,42 @@
         "Frontend"
       ],
       "id": 5
+    },
+    {
+      "title": "The Rise of Remote Work in the Digital Age",
+      "category": [
+        "BUSINESS",
+        "LIFESTYLE"
+      ],
+      "description": "How remote work is changing company culture, productivity, and work-life balance worldwide.",
+      "content": "Remote work has shifted from being a rare perk to a mainstream way of working. Advances in cloud technology, communication tools, and collaboration platforms have made it possible for teams to work together from anywhere in the world.\nFor employees, remote work offers greater flexibility and improved work-life balance. People can design their schedules around their personal lives, reducing commute times and stress. For companies, it opens access to a global talent pool, allowing them to hire the best people regardless of location.\n\nHowever, remote work also comes with challenges. Maintaining team culture, communication, and productivity requires deliberate effort. Regular virtual meetings, clear documentation, and team-building activities play a crucial role in keeping everyone aligned.\n\nAs businesses continue to adapt, hybrid models that combine remote and in-office work are becoming increasingly popular, offering the best of both worlds.",
+      "coverImage": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg",
+      "date": "2026-01-17T22:09:40.560Z",
+      "tags": [
+        "Remote Work",
+        "Productivity",
+        "Work Culture",
+        "Digital Life"
+      ],
+      "id": 6
+    },
+    {
+      "title": "How Cloud Computing Is Powering Modern Startups",
+      "category": [
+        "TECH",
+        "BUSINESS"
+      ],
+      "description": "An overview of how cloud platforms help startups scale faster, reduce costs, and innovate more efficiently.",
+      "content": "Cloud computing has become a foundational technology for modern startups. Instead of investing heavily in physical infrastructure, companies can now access powerful computing resources on demand through cloud platforms such as AWS, Azure, and Google Cloud.\n\nOne of the biggest advantages of the cloud is scalability. Startups can begin with minimal resources and automatically scale up as their user base grows. This flexibility allows businesses to focus on building products rather than managing servers and hardware.\n\nCost efficiency is another major benefit. With a pay-as-you-go model, startups only pay for the resources they use, reducing financial risk during early stages. This makes experimentation more accessible, enabling teams to test ideas quickly and iterate based on user feedback.",
+      "coverImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg",
+      "date": "2026-01-17T22:38:43.284Z",
+      "tags": [
+        "Cloud Computing",
+        "Startups",
+        "SaaS",
+        "Innovation"
+      ],
+      "id": 7
     }
   ]
 }
