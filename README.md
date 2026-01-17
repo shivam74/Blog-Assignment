@@ -2,6 +2,12 @@
 
 A modern blog application built with React, TanStack Query, Tailwind CSS, and shadcn/ui components.
 
+## Overview
+
+![Blog Application Screenshot](./screenshot.png)
+
+*CA Monk Blog - A modern blog application with a clean, two-column layout featuring blog list and detail views.*
+
 ## Prerequisites
 
 - Node.js (v18 or higher)
